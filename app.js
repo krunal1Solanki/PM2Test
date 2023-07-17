@@ -10,3 +10,5 @@ app.get("/crash", (req, res) => {
 })
 
 app.listen(4001, ()=> console.log("fine"))
+
+  
